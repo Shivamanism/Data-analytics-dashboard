@@ -1,4 +1,4 @@
-# data-analytics-dashboard
+# Data-analytics-dashboard
 ShopNest Store Sales Analysis Dashboard
 
 **Project Overview**
